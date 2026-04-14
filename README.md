@@ -1,1 +1,4 @@
-# tcss360_project_test
+# My project
+
+This project is a test for making/setting up repositories in Github.
+
